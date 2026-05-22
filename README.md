@@ -1,5 +1,5 @@
 ## Hi there 👋
-Another Work repo: [Git Repo2](https://github.com/amrit-sbagga19)
+Another Work repo: [Git Repo2](https://github.com/amrit-bagga19)
 
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2599647) 
