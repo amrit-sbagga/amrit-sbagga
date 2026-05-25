@@ -12,5 +12,28 @@ Another Work repo: [Git Repo2](https://github.com/amrit-bagga19)
 ![](https://streak-stats.demolab.com/?user=amrit-sbagga&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=amrit-sbagga&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=python,c++)
 
+
+## Profile Details:
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amrit-sbagga&theme=dark&hide_border=false)
+
+## 🏆 GitHub Trophies
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=amrit-sbagga&theme=radical&no-frame=true&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!--
+### 🔝 Top Contributed Repo
+![Top Contributed Repos](https://github-repository-stats-ja1leq61k.vercel.app/api?username=amrit-sbagga&limit=5&theme=dark&combine_all_yearly_contributions=true)
+-->
+
+## 📈 GitHub Activity Graph
+[![Amrit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amrit-sbagga&theme=react-dark)](https://github.com/amrit-sbagga)
+
+
+## 🏆 GitRoll Profile Badge
+<div align="center">
+  <a href="https://gitroll.io/profile/uwNCyW7Ce5nYqApN6pIX9XICalUH3" target="_blank">
+    <img src="https://gitroll.io/api/badges/profiles/v1/uwNCyW7Ce5nYqApN6pIX9XICalUH3?theme=github-dark&hide_border=true" height="200" alt="GitRoll Profile Badge" />
+  </a>
+</div>
+
 ---
 ![](https://komarev.com/ghpvc/?username=amrit-sbagga)
