@@ -27,13 +27,13 @@ Another Work repo: [Git Repo2](https://github.com/amrit-bagga19)
 ## 📈 GitHub Activity Graph
 [![Amrit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amrit-sbagga&theme=react-dark)](https://github.com/amrit-sbagga)
 
-
+<!--
 ## 🏆 GitRoll Profile Badge
 <div align="center">
   <a href="https://gitroll.io/profile/uwNCyW7Ce5nYqApN6pIX9XICalUH3" target="_blank">
     <img src="https://gitroll.io/api/badges/profiles/v1/uwNCyW7Ce5nYqApN6pIX9XICalUH3?theme=github-dark&hide_border=true" height="200" alt="GitRoll Profile Badge" />
   </a>
 </div>
-
+-->
 ---
 ![](https://komarev.com/ghpvc/?username=amrit-sbagga)
