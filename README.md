@@ -1,7 +1,7 @@
 # 💫 About Me:
 <br>🚀 Senior Full Stack Developer with 12+ years of experience in frontend and backend engineering.
 <br>🌱 I’m actively learning and strengthening my expertise in Java, Spring Boot, System Design, and Cloud technologies.
-<br>💻 I enjoy building performant React applications, reusable UI systems, and backend APIs using Node.js & Java
+<br>💻 I enjoy building performant React applications, reusable UI systems, and backend APIs using Node.js, Java and AWS cloud services.
 <br>⚡ Interested in performance optimization, reusable component systems, and scalable product engineering.
 <br>🤖 Exploring AI-assisted development workflows using Cursor, GitHub Copilot, Antigravity and modern developer tooling
 <br>🏏 Outside tech, I enjoy cricket, music, and learning emerging technologies.
